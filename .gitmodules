@@ -1,0 +1,3 @@
+[submodule "adoszpoly"]
+    path = adoszpoly
+    url = https://github.com/ahabram/adoszpoly.git
